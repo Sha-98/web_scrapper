@@ -3,6 +3,10 @@ body, html {
     font-family: sans-serif;
 }
 
+body {
+    background-image: url("https://github.com/Sha-98/Data-Science-Masters/assets/89126969/1cffb15d-9970-463d-b88b-ed7177debc67");
+  }
+
 .content {
     margin: 0 auto;
     width: 400px;
